@@ -136,6 +136,6 @@ Running the notebook produces:
 
 ## License
 
-Released under the [MIT License](LICENSE) © 2026 [a-aghamohammadi](https://github.com/a-aghamohammadi).
+Released under the [MIT License](LICENSE) © 2026 [InSilicoDev](https://github.com/InSilicoDev).
 
 <p align="center"><sub>Built with RDKit &amp; scikit-learn · contributions and issues welcome</sub></p>
